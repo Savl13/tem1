@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="pr1_10/pr1_10.csproj" />
+  <Project Path="pr1_3/pr1_3.csproj" />
+  <Project Path="pr1_4/pr1_4.csproj" />
+  <Project Path="pr1_5/pr1_5.csproj" />
+  <Project Path="pr1_6/pr1_6.csproj" />
+  <Project Path="pr1_7/pr1_7.csproj" />
+  <Project Path="pr1_8/pr1_8.csproj" />
+  <Project Path="pr1_9/pr1_9.csproj" />
+  <Project Path="pr2_1/pr2_1.csproj" />
+  <Project Path="pr2_2/pr2_2.csproj" />
+</Solution>
